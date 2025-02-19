@@ -1,0 +1,26 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and temporary files
+*.log
+*.out
+*.tmp
+
+# MacOS system files
+.DS_Store
+
+# VS Code settings (optional, if using VS Code)
+.vscode/
+
+# Environment variables and credentials (if any)
+.env
